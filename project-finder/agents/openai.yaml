@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Finder · 本地工作经验"
+  short_description: "从重复任务中积累本地经验，提炼可复用流程，并在执行验证后持续修正"
+  default_prompt: "使用 $project-finder 查找适合本次任务的经验，核对条件后执行与验证，并将值得保留的结果沉淀为本地经验或候选流程。"
